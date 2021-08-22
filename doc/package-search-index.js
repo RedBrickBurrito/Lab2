@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"mx.tec.web.lab"},{"l":"mx.tec.web.lab.controller"},{"l":"mx.tec.web.lab.entity"},{"l":"mx.tec.web.lab.manager"},{"l":"mx.tec.web.lab.repository"}]

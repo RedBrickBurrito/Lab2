@@ -1,0 +1,5 @@
+mx.tec.web.lab
+mx.tec.web.lab.controller
+mx.tec.web.lab.entity
+mx.tec.web.lab.manager
+mx.tec.web.lab.repository

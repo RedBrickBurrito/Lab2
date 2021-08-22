@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"mx.tec.web.lab","l":"Lab2Application"},{"p":"mx.tec.web.lab.entity","l":"Product"},{"p":"mx.tec.web.lab.controller","l":"ProductController"},{"p":"mx.tec.web.lab.manager","l":"ProductManager"},{"p":"mx.tec.web.lab.repository","l":"ProductRepository"},{"p":"mx.tec.web.lab.entity","l":"Sku"}]
